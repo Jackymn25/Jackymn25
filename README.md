@@ -23,7 +23,7 @@
 - 🎓 **Computer Science & Statistics at University Of Toronto**, currently starting **Year 2**.
 - 💼 Current position: **AI Agent Developer Intern**.
 - 💡 Interests: **Machine Learning**, **Data Science**, **Full-Stack Development**.
-- Currently learning: **PyTorch**, **scikit-learn**, **Go**, **Assembly**, **C++**.
+- Currently learning: **PyTorch**, **scikit-learn**, **Go**, **C++**.
 
 ## Tech
 | Category | Skills |
