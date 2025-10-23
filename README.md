@@ -35,8 +35,8 @@
 ---
 
 ## GitHub stats
-| ![Stats](https://github-readme-stats.vercel.app/api?username=jackymn25&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackymn25&layout=donut&langs_count=10&hide=CMake&theme=default&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=jackymn25&theme=default&hide_border=true) |
-|---|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jackymn25&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackymn25&layout=donut&langs_count=10&hide=CMake&theme=default&hide_border=true) |
+|---|---|
 
 </div>
 
