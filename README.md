@@ -23,7 +23,7 @@
 - 🎓 **Computer Science & Statistics at University Of Toronto**, currently starting **Year 2**.
 - 💼 Current position: **AI Agent Developer Intern**.
 - 💡 Interests: **Machine Learning**, **Data Science**, **Full-Stack Development**.
-- Currently learning: **PyTorch**, **scikit-learn**, **C++**.
+- Currently learning: **scikit-learn**, **C++**.
 
 ## Tech
 | Category | Skills |
@@ -33,8 +33,8 @@
 
 ---
 
-## GitHub stats
-| ![Stats](https://github-readme-stats.vercel.app/api?username=jackymn25&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=21600&v=20251105a) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackymn25&layout=donut&langs_count=10&hide=CMake&theme=default&hide_border=true&cache_seconds=21600&v=20251105a) | 
+## My GitHub stats
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jackymn25&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=21600&v=20251114a) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackymn25&layout=donut&langs_count=10&hide=CMake&theme=default&hide_border=true&cache_seconds=21600&v=20251114a) | 
 |---|---|
 
 
