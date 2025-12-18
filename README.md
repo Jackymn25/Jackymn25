@@ -20,8 +20,7 @@
 </div> <!-- closed -->
 
 ## About me
-- 🎓 **Computer Science & Statistics at University Of Toronto**, currently starting **Year 2**.
-- 💼 Current position: **AI Agent Developer Intern**.
+- 🎓 **Computer Science & Statistics student/teaching assistant at University Of Toronto**, currently in **Year 2**.
 - 💡 Interests: **Machine Learning**, **Data Science**, **Full-Stack Development**.
 - Currently learning: **scikit-learn**, **C++**.
 
