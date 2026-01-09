@@ -20,7 +20,7 @@
 </div> <!-- closed -->
 
 ## About me
-- 🎓 **Computer Science & Statistics student at University Of Toronto**, I joined the Uoft in Sep 2024, and I have completed 10.5 / 20 credits so far.
+- 🎓 **Computer Science & Statistics student at University Of Toronto**, I joined Uoft in Sep 2024, and I have completed 10.5 / 20 credits so far.
 - **Career interest: A few years ago**, I tried some GPT wrappers and integrated one into my Minecraft server—it worked really well. That got me interested in AI agents. I later completed an internship as an AI Agent Developer, and I’m currently a teaching assistant at my university.
 - I am now taking **CSC311 CSC343 CSC318 CSC300 STA302 CSC209 (2026 Winter)**
 - I’m not a horrible person :). I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes. I also love cats and dogs, but my mom thinks our home already has three busy people and no one would have enough time to keep a pet company, so we’ve never really had the chance to adopt one. Its nice to see you this semester and hope we can be friends.
