@@ -24,18 +24,21 @@
 ### Academics
 - **Computer Science & Statistics student at the University of Toronto**
 - Joined UofT in **Sep 2024**
-- Completed **10.5 / 20 credits** so far
-- Currently taking (**Winter 2026**):
-  - CSC311, CSC343, CSC318, CSC300, STA302, CSC209
+- Completed **13.0 / 20 credits** so far
+- Currently taking (**Summer 2026**):
+  - CSC392, STA304
+- Planning to take (**Fall 2026 & Winter 2027**):
+  - CSC413, CSC420, CSC415, STA398, CCT399, CSC369, CSC373, CSC347, STA305, CSC301
 
 ### Career Path & Interest
-- A few years ago, I tried some GPT wrappers and integrated one into my Minecraft server. That got me interested in AI agents.
-- I later completed an internship as an AI Agent Developer, and I’m currently a teaching assistant at my university.
+- Student Research Assistant 2022.6 - 2022.9
+- AI Agent Developer 2025.7 - 2025.12
+- Teaching Assistant 2025.12 - graduation :)
 
 ### 🙂 A bit about me
 - I’m not a horrible person :)
 - I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
-- I also love cats and dogs, but my mom thinks our home already has three busy people and no one would have enough time to keep a pet company, so we’ve never really had the chance to adopt one.
+- I am a dog person and a cat person.
 - Its nice to see you this semester and hope we can be friends.
 
 ## Tech
