@@ -42,7 +42,7 @@
   <a href="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true">
     <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true" />
   </a>
-  <a href="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=10">
+  <a href="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=20">
     <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=10" />
   </a>
 </div>
