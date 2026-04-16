@@ -22,11 +22,8 @@
 ## About Me
 
 ### Academics
-- **Computer Science & Statistics student at the University of Toronto**
-- Joined UofT in **Sep 2024**
-- Completed **13.0 / 20 credits** so far
-- Currently taking (**Summer 2026**):
-  - CSC392, STA304
+- **Computer Science & Statistics student at the University of Toronto** **13.0 / 20 credits** so far
+- Currently taking (**Summer 2026**): - CSC392, STA304
 - Planning to take (**Fall 2026 & Winter 2027**):
   - CSC413, CSC420, CSC415, STA398, CCT399, CSC369, CSC373, CSC347, STA305, CSC301
 
@@ -40,6 +37,15 @@
 - I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
 - I am a dog person and a cat person.
 - Its nice to see you this semester and hope we can be friends.
+
+<div align="center">
+  <a href="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true" />
+  </a>
+  <a href="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=10">
+    <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=10" />
+  </a>
+</div>
 
 ## Tech
 | Category | Skills |
