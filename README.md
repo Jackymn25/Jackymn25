@@ -41,11 +41,11 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true&card_width=420&cache_seconds=21600&v=20260417-2"
+    src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true&card_width=420&cache_seconds=21600&v=20260417-3"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=12&card_width=420&cache_seconds=21600&v=20260417-2"
+    src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=12&card_width=420&percentage=true&hide=jupyter%20notebook,cmake,makefile&cache_seconds=21600&v=20260417-3"
   />
 </div>
 
