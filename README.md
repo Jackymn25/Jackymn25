@@ -39,12 +39,14 @@
 - Its nice to see you this semester and hope we can be friends.
 
 <div align="center">
-  <a href="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true" />
-  </a>
-  <a href="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=20">
-    <img height="180em" src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=10" />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats-tan-six-64.vercel.app/api?username=Jackymn25&show_icons=true&include_all_commits=true&card_width=420&cache_seconds=21600&v=20260417-2"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-tan-six-64.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&langs_count=12&card_width=420&cache_seconds=21600&v=20260417-2"
+  />
 </div>
 
 ## Tech
