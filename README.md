@@ -32,6 +32,8 @@
 - AI Agent Developer 2025.7 - 2025.12
 - Teaching Assistant 2025.12 - graduation :)
 
+📄 [View My Resume](./Resume202604.pdf)
+
 ### 🙂 A bit about me
 - I’m not a horrible person :)
 - I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
