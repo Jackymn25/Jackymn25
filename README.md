@@ -27,8 +27,6 @@
 - Planning to take (**Fall 2026 & Winter 2027**):
   - CSC413, CSC420, CSC415, STA398, CCT399, CSC369, CSC373, CSC347, STA305, CSC301
 
-📄 [View My Academic Journey & Course Reviews](./course_experience.md)
-
 ### Career Path & Interest
 - Student Research Assistant 2022.6 - 2022.9
 - AI Agent Developer 2025.7 - 2025.12
