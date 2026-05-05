@@ -33,7 +33,7 @@
 - Teaching Assistant 2025.12 - graduation :)
 - Research Assistant 2026.4 - present
 
-📄 [View My Resume](./Resume202604.pdf)
+📄 [View My Resume](./Resume2026.pdf)
 
 ### 🙂 A bit about me
 - I’m not a horrible person :)
