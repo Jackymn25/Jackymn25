@@ -28,11 +28,7 @@
   - CSC413, CSC420, CSC415, STA398, CCT399, CSC369, CSC373, CSC347, STA305, CSC301
 
 ### Career Path & Interest
-- Student Research Assistant 2022.6 - 2022.9
-- AI Agent Developer 2025.7 - 2025.12
-- Teaching Assistant 2025.12 - graduation :)
-- Research Assistant 2026.4 - present
-
+I am interested in healthcare technology and educational technology with an intergration of AI.
 📄 [View My Resume](./Resume2026.pdf)
 
 ### 🙂 A bit about me
