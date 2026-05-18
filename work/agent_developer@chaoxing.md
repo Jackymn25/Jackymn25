@@ -4,7 +4,7 @@
 **Role:** AI Agent Developer  
 **Location:** Remote  
 **Period:** Jul 2025 – Dec 2025  
-**Supervisor:** Jingqin Cai
-**Tutor:** Ziqi Hu
-**Status:** Internship (part-time)
-**Evidence:** Please contact jacky.huo@mail.utoronto.ca, can provide bank payroll as evidence
+**Supervisor:** Jingqin Cai  
+**Tutor:** Ziqi Hu  
+**Status:** Part-time Internship  
+**Evidence:** Supporting documentation can be provided upon request.
