@@ -30,7 +30,7 @@
 ### Career Path & Interest
 I am interested in healthcare technology and educational technology with an intergration of AI.
 
-📄 [View My Resume](./Resume2026.pdf)
+📄 [View My Resume](./Resume2026.pdf) <To be updated>
 
 ### 🙂 A bit about me
 - I’m not a horrible person :)
