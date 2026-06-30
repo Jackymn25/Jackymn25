@@ -4,5 +4,4 @@
 **Role:** Teaching Assistant  
 **Location:** Mississauga, ON  
 **Period:** Dec 2025 – Present  
-**Supervisor:** Prof. Asal Aslemand
-**Status:** Part-time  
+**Supervisor:** Prof. Asal Aslemand, Prof. Samir Hamdi
