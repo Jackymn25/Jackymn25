@@ -24,7 +24,7 @@
 - **Computer Science & Statistics student at the University of Toronto** **13.0 / 20 credits** so far
 - Currently taking (**Summer 2026**): - CSC392, STA304
 - Planning to take (**Fall 2026 & Winter 2027**):
-  - CSC413, CSC420, CSC415, STA398, CCT399, CSC369, CSC373, CSC347, STA305, CSC301
+  - CSC413, CSC420, STA360, CCT399, CSC369, CSC373, CSC347, STA305, CSC301, csc490, csc412/csc367
 
 ### Career Path & Interest
 I have broad interest, e.g(software development, ML, research of some topic of my interest but involves some cool analytics)
