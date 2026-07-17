@@ -61,7 +61,7 @@ I have broad interest, e.g(software development, ML, research of some topic of m
 
 ## Contacts
 - 📫 How to reach me: Jacky.Huo@uhn.ca / jacky.huo@mail.utoronto.ca
-- 💼 LinkedIn: www.linkedin.com/in/haozhe-huo-a22211366
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/haozhe-huo-a22211366)
 ---
 
 
