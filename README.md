@@ -21,7 +21,7 @@
 ## About Me
 
 ### Academics
-- **Computer Science & Statistics student at the University of Toronto** **13.0 / 20 credits** so far
+- **Computer Science & Statistics student at the University of Toronto**
 - Currently taking (**Summer 2026**): - CSC392, STA304
 - Planning to take (**Fall 2026 & Winter 2027**):
   - CSC413, CSC420, STA360, CCT399, CSC369, CSC373, CSC347, STA305, CSC301, csc490, csc412/csc367
@@ -40,7 +40,7 @@ I have broad interest, e.g(software development, ML, research of some topic of m
 | Student Software Developer           | Developing a CSC108 office-hours platform for instructors, teaching assistants, and students                |
 | ROP Research Assistant               | Exploring indoor-navigation tools for people who are blind or visually impaired                             |
 
-📄 [View My Resume](./Resume2026.pdf) <To be updated>
+📄 [View My Resume](./Resume2026.pdf)
 
 ### 🙂 A bit about me
 - I’m not a horrible person :)
@@ -61,6 +61,7 @@ I have broad interest, e.g(software development, ML, research of some topic of m
 
 ## Contacts
 - 📫 How to reach me: Jacky.Huo@uhn.ca / jacky.huo@mail.utoronto.ca
+- 💼 LinkedIn: www.linkedin.com/in/haozhe-huo-a22211366
 ---
 
 
