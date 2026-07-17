@@ -26,25 +26,14 @@
 - Planning to take (**Fall 2026 & Winter 2027**):
   - CSC413, CSC420, STA360, CCT399, CSC369, CSC373, CSC347, STA305, CSC301, csc490, csc412/csc367
 
-### Career Path & Interest
-I have broad interest, e.g(software development, ML, research of some topic of my interest but involves some cool analytics)
+### Career Path
 
-| Role                                 | Main Focus                                                                                                  |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| Student Researcher                   | Raspberry Pi–based facial-recognition access system                                                         |
-| AI Agent Developer                   | AI agent development                                                                                        |
-| Teaching Assistant, STA107           | Introductory statistics instruction and student support                                                     |
-| Research Assistant                   | Locally deployed LLMs on Digital Research Alliance of Canada servers for licensing-contract data extraction |
-| Research Assistant                   | ML-assisted screening for TBI systematic reviews and analysis of model error patterns                       |
-| Teaching Assistant, STA258           | Statistics instruction and student support                                                                  |
-| Student Software Developer           | Developing a CSC108 office-hours platform for instructors, teaching assistants, and students                |
-| ROP Research Assistant               | Exploring indoor-navigation tools for people who are blind or visually impaired                             |
+I worked as a Student Research Assistant at ECNU in 2022 and as an AI Agent Developer at ChaoXing in 2025. Since late 2025, I have been a Teaching Assistant and Research Assistant at the University of Toronto and a Research Assistant at UHN’s KITE Research Institute.
 
-📄 [View My Resume](./Resume2026.pdf)
+📄 [View My Resume (updating)](./Resume2026.pdf)
 
 ### 🙂 A bit about me
-- I’m not a horrible person :)
-- I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
+- I’m not a horrible person :) I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
 - I am a dog person and a cat person.
 - Its nice to see you this semester and hope we can be friends.
 
