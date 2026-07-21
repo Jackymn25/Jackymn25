@@ -33,7 +33,7 @@ I worked as a Student Research Assistant at ECNU in 2022 and as an AI Agent Deve
 📄 [View My Resume (updating)](./Resume2026.pdf)
 
 ### 🙂 A bit about me
-- I’m not a horrible person :) I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
+- I’m not a horrible person. :) I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
 - I am a dog person and a cat person.
 - Its nice to see you this semester and hope we can be friends.
 
