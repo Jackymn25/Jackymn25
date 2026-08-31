@@ -21,8 +21,7 @@
 ## About Me
 
 - **Computer Science & Statistics student at the University of Toronto**
-- Currently taking (**Summer 2026**): - CSC392, STA304
-- (**Fall 2026**): - CSC413, CSC420, CCT399, CSC492, CSC490, CSC398
+- (**Fall 2026**): - CSC413, CSC420, CCT399, CSC494, CSC490, CSC398
 - (**Winter 2027**): - CSC415, STA360, CSC369, CSC373, CCT399(my social sci credit :) ), STA305
 
 ### Career Path
