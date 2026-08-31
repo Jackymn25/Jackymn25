@@ -24,6 +24,8 @@
 - (**Fall 2026**): - CSC413, CSC420, CCT399, CSC494, CSC490, CSC398
 - (**Winter 2027**): - CSC415, STA360, CSC369, CSC373, CCT399(my social sci credit :) ), STA305
 
+Courses I TAed: CSC207, STA258, STA107
+
 ### Career Path
 
 I worked as a Student Research Assistant at ECNU in 2022 and as an AI Agent Developer at ChaoXing in 2025. Since late 2025, I have been a Teaching Assistant and Research Assistant at the University of Toronto and a Research Assistant at UHN’s KITE Research Institute.
