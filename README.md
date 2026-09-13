@@ -21,8 +21,8 @@
 ## About Me
 
 - **I'm doing double major in Computer Science & Statistics at the University of Toronto, currently taking:**
-- (**Fall 2026**): - CSC413, CSC420, CCT399, CSC494, CSC490, CSC398
-- (**Winter 2027**): - CSC415, STA360, CSC369, CSC373, CCT399(my social sci credit :) ), STA305
+- (**Fall 2026**): - CSC413, CSC420, CSC494, CSC490, CSC398
+- (**Winter 2027**): - CSC415, STA360, CSC369, CSC373, STA305
 
 Courses I TAed: CSC207, STA258, STA107
 
