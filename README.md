@@ -32,6 +32,8 @@ I worked as a Student Research Assistant at ECNU in 2022 and as an AI Agent Deve
 
 📄 [View My Resume (updating)](./Resume2026.pdf)
 
+💭 I have some ideas about AI: [Will AI Replace Us? My Thoughts on Research, Language Models, and the Next Generation of Engineers](./articles/ai-research-and-next-generation-engineers/README.md)
+
 ### 🙂 A bit about me
 - I’m not a horrible person. :) I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
 - I am a dog person and a cat person.
