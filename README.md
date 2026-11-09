@@ -30,9 +30,7 @@ Courses I TAed: CSC207, STA258, STA107
 
 I worked as a Student Research Assistant at ECNU in 2022 and as an AI Agent Developer at ChaoXing in 2025. Since late 2025, I have been a Teaching Assistant and Research Assistant at the University of Toronto and a Research Assistant at UHN’s KITE Research Institute.
 
-📄 [View My Resume (updating)](./Resume2026.pdf)
-
-💭 I have some ideas about AI: [Will AI Replace Us? My Thoughts on Research, Language Models, and the Next Generation of Engineers](./articles/ai-research-and-next-generation-engineers/README.md)
+📄 [View My Resume](./Resume_HaozheHuo.pdf)
 
 ### 🙂 A bit about me
 - I’m not a horrible person. :) I enjoy gaming, playing table tennis, traveling, and experimenting with food recipes.
